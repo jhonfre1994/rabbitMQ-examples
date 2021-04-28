@@ -1,0 +1,12 @@
+## YAML Template.
+---
+app:
+  message: Message has been sent Successfully..
+spring:
+  rabbitmq:
+    host: localhost
+    password: guest
+    port: 5672
+    username: guest
+server:
+  port: 9091
